@@ -3,8 +3,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    70,
+                    2
                 ],
                 "goals": [
                     0,
@@ -63,19 +63,19 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    2,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    2,
+                    8,
                     0
                 ],
                 "penalty_conceded": [
@@ -84,17 +84,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 1,
-            "totalPoints": 0,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 0,
-    "weekPoints": 0,
-    "averagePoints": 0,
+    "points": 4,
+    "weekPoints": 4,
+    "averagePoints": 4,
     "id": "1846",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t177/color/t177_rcd-espanyol.png",
@@ -121,7 +121,8 @@
         "16/08/2024": 3177191,
         "17/08/2024": 3097212,
         "18/08/2024": 3013347,
-        "19/08/2024": 2930142
+        "19/08/2024": 2930142,
+        "20/08/2024": 2863993
     },
     "playerStatus": "ok"
 }

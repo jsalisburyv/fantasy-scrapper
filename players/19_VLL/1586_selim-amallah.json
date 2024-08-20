@@ -3,8 +3,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    69,
+                    2
                 ],
                 "goals": [
                     0,
@@ -19,8 +19,8 @@
                     0
                 ],
                 "pen_area_entries": [
-                    1,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_won": [
                     0,
@@ -35,7 +35,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -48,7 +48,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
                     0,
@@ -67,15 +67,15 @@
                     0
                 ],
                 "won_contest": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    2,
+                    5,
                     0
                 ],
                 "penalty_conceded": [
@@ -84,17 +84,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 1,
-            "totalPoints": 0,
+            "totalPoints": 9,
             "isInIdealFormation": false
         }
     ],
-    "points": 0,
-    "weekPoints": 0,
-    "averagePoints": 0,
+    "points": 9,
+    "weekPoints": 9,
+    "averagePoints": 9,
     "id": "1586",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
@@ -126,7 +126,8 @@
         "16/08/2024": 3925012,
         "17/08/2024": 3804648,
         "18/08/2024": 3686901,
-        "19/08/2024": 3573736
+        "19/08/2024": 3573736,
+        "20/08/2024": 3491804
     },
     "playerStatus": "ok"
 }
