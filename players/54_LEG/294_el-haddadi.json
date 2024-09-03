@@ -279,14 +279,14 @@
     "averagePoints": 1,
     "id": "294",
     "team": {
-        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
-        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t407/gray/t407_ud-las-palmas.png",
-        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t407/white/t407_ud-las-palmas.png",
-        "name": "UD Las Palmas",
-        "id": "31",
-        "shortName": "LPA",
-        "slug": "ud-las-palmas",
-        "dspId": 181,
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t957/color/t957_cd-leganes.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t957/gray/t957_cd-leganes.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t957/white/t957_cd-leganes.png",
+        "name": "CD Legan\u00e9s",
+        "id": "54",
+        "shortName": "LEG",
+        "slug": "cd-leganes",
+        "dspId": 264,
         "store": ""
     },
     "name": "Munir El Haddadi Mohamed",
@@ -305,7 +305,8 @@
         "30/08/2024": 6758084,
         "31/08/2024": 6548362,
         "01/09/2024": 6346661,
-        "02/09/2024": 6143560
+        "02/09/2024": 6141462,
+        "03/09/2024": 5939643
     },
     "playerStatus": "ok"
 }

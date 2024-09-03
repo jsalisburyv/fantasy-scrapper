@@ -4,14 +4,14 @@
     "averagePoints": 0,
     "id": "1450",
     "team": {
-        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
-        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t2893/gray/t2893_girona-fc.png",
-        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t2893/white/t2893_girona-fc.png",
-        "name": "Girona\u00a0FC",
-        "id": "28",
-        "shortName": "GIR",
-        "slug": "girona-fc",
-        "dspId": 151,
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t181/gray/t181_rcd-mallorca.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t181/white/t181_rcd-mallorca.png",
+        "name": "RCD Mallorca",
+        "id": "33",
+        "shortName": "MLL",
+        "slug": "rcd-mallorca",
+        "dspId": 77,
         "store": ""
     },
     "name": "Valery Fern\u00e1ndez",
@@ -85,7 +85,8 @@
         "30/08/2024": 808956,
         "31/08/2024": 786710,
         "01/09/2024": 766524,
-        "02/09/2024": 748220
+        "02/09/2024": 747709,
+        "03/09/2024": 728842
     },
     "playerStatus": "doubtful"
 }
