@@ -241,7 +241,7 @@
     },
     {
         "id": 567,
-        "status": "doubtful",
+        "status": "injured",
         "slug": "ocampos",
         "position": "Delantero",
         "marketValue": {
@@ -367,7 +367,7 @@
     },
     {
         "id": 683,
-        "status": "doubtful",
+        "status": "ok",
         "slug": "gudelj",
         "position": "Centrocampista",
         "marketValue": {
