@@ -1,7 +1,7 @@
 [
     {
         "id": 62,
-        "status": "suspended",
+        "status": "ok",
         "slug": "saul-2",
         "position": "Centrocampista",
         "marketValue": {
@@ -844,7 +844,7 @@
     },
     {
         "id": 1478,
-        "status": "ok",
+        "status": "doubtful",
         "slug": "marcao",
         "position": "Defensa",
         "marketValue": {
@@ -1330,7 +1330,7 @@
     },
     {
         "id": 1694,
-        "status": "injured",
+        "status": "ok",
         "slug": "djibril-sow",
         "position": "Centrocampista",
         "marketValue": {
@@ -1588,7 +1588,7 @@
     },
     {
         "id": 1754,
-        "status": "ok",
+        "status": "suspended",
         "slug": "juanlu-1",
         "position": "Centrocampista",
         "marketValue": {
@@ -1798,7 +1798,7 @@
     },
     {
         "id": 1800,
-        "status": "doubtful",
+        "status": "ok",
         "slug": "kike-salas",
         "position": "Defensa",
         "marketValue": {

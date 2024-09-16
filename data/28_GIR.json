@@ -479,7 +479,7 @@
     },
     {
         "id": 1301,
-        "status": "injured",
+        "status": "doubtful",
         "slug": "yangel-herrera",
         "position": "Centrocampista",
         "marketValue": {
@@ -1152,7 +1152,7 @@
     },
     {
         "id": 1537,
-        "status": "injured",
+        "status": "ok",
         "slug": "oriol-romeu",
         "position": "Centrocampista",
         "marketValue": {
