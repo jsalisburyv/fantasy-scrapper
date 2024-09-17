@@ -1687,7 +1687,7 @@
     },
     {
         "id": 1819,
-        "status": "ok",
+        "status": "injured",
         "slug": "joao-cardoso",
         "position": "Centrocampista",
         "marketValue": {
@@ -1774,7 +1774,7 @@
     },
     {
         "id": 1841,
-        "status": "injured",
+        "status": "ok",
         "slug": "bakambu",
         "position": "Delantero",
         "marketValue": {
