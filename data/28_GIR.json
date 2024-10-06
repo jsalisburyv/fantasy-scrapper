@@ -225,7 +225,7 @@
             0,
             8,
             3,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -257,7 +257,7 @@
             NaN
         ],
         "points": 32,
-        "averagePoints": 4
+        "averagePoints": 3.5555555555555554
     },
     {
         "id": 1106,
@@ -374,7 +374,7 @@
             0,
             7,
             7,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -406,7 +406,7 @@
             NaN
         ],
         "points": 37,
-        "averagePoints": 4.625
+        "averagePoints": 4.111111111111111
     },
     {
         "id": 1245,
@@ -523,7 +523,7 @@
             0,
             11,
             4,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -555,7 +555,7 @@
             NaN
         ],
         "points": 45,
-        "averagePoints": 5.625
+        "averagePoints": 5
     },
     {
         "id": 1301,
@@ -672,7 +672,7 @@
             2,
             6,
             15,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -704,7 +704,7 @@
             NaN
         ],
         "points": 47,
-        "averagePoints": 6.714285714285714
+        "averagePoints": 5.875
     },
     {
         "id": 1442,
@@ -907,7 +907,7 @@
             0,
             NaN,
             0,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1056,7 +1056,7 @@
             1,
             1,
             0,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1088,7 +1088,7 @@
             NaN
         ],
         "points": 16,
-        "averagePoints": 2
+        "averagePoints": 1.7777777777777777
     },
     {
         "id": 1453,
@@ -1167,7 +1167,7 @@
             1,
             0,
             0,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1199,7 +1199,7 @@
             NaN
         ],
         "points": 1,
-        "averagePoints": 0.125
+        "averagePoints": 0.1111111111111111
     },
     {
         "id": 1468,
@@ -1316,7 +1316,7 @@
             0,
             6,
             0,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1348,7 +1348,7 @@
             NaN
         ],
         "points": 13,
-        "averagePoints": 1.625
+        "averagePoints": 1.4444444444444444
     },
     {
         "id": 1537,
@@ -1612,7 +1612,7 @@
             2,
             7,
             5,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1644,7 +1644,7 @@
             NaN
         ],
         "points": 43,
-        "averagePoints": 5.375
+        "averagePoints": 4.777777777777778
     },
     {
         "id": 1577,
@@ -2059,7 +2059,7 @@
             3,
             0,
             2,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -2091,6 +2091,6 @@
             NaN
         ],
         "points": 10,
-        "averagePoints": 1.25
+        "averagePoints": 1.1111111111111112
     }
 ]
