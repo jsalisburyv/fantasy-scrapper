@@ -731,12 +731,12 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    1,
+                    1
                 ],
                 "goals": [
-                    0,
-                    0
+                    1,
+                    4
                 ],
                 "goal_assist": [
                     0,
@@ -791,8 +791,8 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "won_contest": [
                     0,
@@ -812,17 +812,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 9,
-            "totalPoints": 0,
+            "totalPoints": 9,
             "isInIdealFormation": false
         }
     ],
-    "points": 16,
-    "weekPoints": 0,
-    "averagePoints": 1.7777777777777777,
+    "points": 25,
+    "weekPoints": 9,
+    "averagePoints": 2.7777777777777777,
     "id": "1447",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -940,7 +940,8 @@
         "03/10/2024": 1368559,
         "04/10/2024": 1340445,
         "05/10/2024": 1317910,
-        "06/10/2024": 1286184
+        "06/10/2024": 1286184,
+        "07/10/2024": 1258451
     },
     "playerStatus": "ok"
 }

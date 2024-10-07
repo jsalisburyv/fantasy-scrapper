@@ -453,7 +453,7 @@
             },
             "weekNumber": 9,
             "totalPoints": 11,
-            "isInIdealFormation": false
+            "isInIdealFormation": true
         }
     ],
     "points": 24,
@@ -515,7 +515,8 @@
         "03/10/2024": 3931039,
         "04/10/2024": 3901610,
         "05/10/2024": 3874006,
-        "06/10/2024": 3816762
+        "06/10/2024": 3816762,
+        "07/10/2024": 3827037
     },
     "playerStatus": "ok"
 }
